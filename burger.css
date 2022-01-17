@@ -1,0 +1,45 @@
+body {
+	background-image: url(beach.jpg);
+}
+
+.bg-light {
+    background-color: mediumvioletred !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.carousel-inner {
+	height: 600px;
+}
+
+h2 {
+	padding-top: 5px;
+	text-align: center;
+	font-family: 'Acme', sans-serif;
+	font-size: 70x;
+}
+
+.aboutpizza {
+	margin-bottom: -50px;
+	color: white;
+	font-weight: bold;
+	background-color: mediumvioletred;
+}
+
+.burgertype {
+	margin-top: -50px;
+	color: white;
+	font-weight: bold;
+}
+
+.container-full {
+	font-family: 'Acme', sans-serif;
+}
+
+.half {
+	background: url(Sunset.jpg);
+	text-align: center;
+}
